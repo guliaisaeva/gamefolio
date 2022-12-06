@@ -1,0 +1,8 @@
+# ignore specific file like.env
+#ignore specific directories like /logs
+#ignoring file extensions type like *.psd
+# ignoring specific file path like important/superimpotant/top.secret
+# **/logs   -means ignoring all logs folders
+# **/bin    -means ignoring all bin folders
+.idea/
+.vscode/
