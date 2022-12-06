@@ -223,7 +223,7 @@ audio {
 /* section hero */
 .hero {
   min-height: 100vh;
-  background-image: url(../images/bg-welcome.png);
+  background-image: url(../assets/images/bg-welcome.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-position-y: 6rem;
@@ -366,7 +366,7 @@ audio {
 /* section about Me */
 .about-me {
   min-height: 100vh;
-  background-image: url(../images/mountain.png);
+  background-image: url(../assets/images/mountain.png);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: contain;
